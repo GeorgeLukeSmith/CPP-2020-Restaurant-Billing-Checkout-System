@@ -1,5 +1,5 @@
 /***********************************************************************
- * Program 2.cpp
+ * TransactionStatistics.cpp
  * Program for creating statistics from menu and transaction files
  * 07/04/2020
  * 215730
