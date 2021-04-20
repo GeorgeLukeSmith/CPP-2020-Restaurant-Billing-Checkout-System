@@ -1,5 +1,5 @@
 /***********************************************************************
- * Program 2.cpp
+ * BillsAndTransactions.cpp
  * Program for creating bills and transaction file
  * 07/04/2020
  * 215730
