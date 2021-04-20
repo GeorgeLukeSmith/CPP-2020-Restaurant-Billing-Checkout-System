@@ -1,5 +1,5 @@
 /***********************************************************************
- * Program 1.cpp
+ * MenuCreation.cpp
  * Program for creating Menu file
  * 09/04/2020
  * 215730
